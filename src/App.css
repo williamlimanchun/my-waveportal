@@ -20,7 +20,7 @@
 
 .bio {
   text-align: center;
-  color: gray;
+  color: honeydew;
   margin-top: 16px;
 }
 
@@ -30,5 +30,21 @@
   padding: 8px;
   border: 0;
   border-radius: 5px;
-  
+  padding: 10px 50px;
+}
+
+.spinner-border {
+  padding: 20px;
+  position: relative;
+  left: 46%;
+}
+
+.form-control-lg {
+  padding-top: 50px !important;
+  position: relative;
+  margin-top: 25px;
+}
+
+body {
+  background: rgb(132, 120, 204) !important;
 }
